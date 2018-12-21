@@ -1,4 +1,4 @@
-# git-template
+# Git Template
 Custom Github Template
 
 ## Installation
@@ -21,3 +21,9 @@ Or **install it manually**:
 [Download VSP_Framework.zip](https://github.com/varunsridharan/vsp-framework/archive/master.zip):
 
     $ wget https://github.com/varunsridharan/vsp-framework/archive/master.zip
+
+## Usage
+
+---
+## Sponsored By
+[![DigitalOcean](https://vsp.ams3.cdn.digitaloceanspaces.com/cdn/DO_Logo_Horizontal_Blue.png)](https://s.svarun.in/Ef)
