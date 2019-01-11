@@ -1,6 +1,14 @@
 # Git Template
 Custom Github Template
 
+[![Latest Stable Version](https://poser.pugx.org/varunsridharan/php-autoloader/version)](https://packagist.org/packages/varunsridharan/php-autoloader)
+[![Latest Unstable Version](https://poser.pugx.org/varunsridharan/php-autoloader/v/unstable)](https://packagist.org/packages/varunsridharan/php-autoloader)
+[![Total Downloads](https://poser.pugx.org/varunsridharan/php-autoloader/downloads)](https://packagist.org/packages/varunsridharan/php-autoloader)
+[![Latest Unstable Version](https://poser.pugx.org/varunsridharan/php-autoloader/v/unstable)](//packagist.org/packages/varunsridharan/php-autoloader)
+[![WP](https://img.shields.io/badge/WordPress-Standar-1abc9c.svg)](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/)
+[![License](https://poser.pugx.org/varunsridharan/php-autoloader/license)](https://packagist.org/packages/varunsridharan/php-autoloader)
+[![composer.lock available](https://poser.pugx.org/varunsridharan/php-autoloader/composerlock)](https://packagist.org/packages/varunsridharan/php-autoloader)
+
 ## Installation
 The preferred way to install this extension is through [Composer](http://getcomposer.org/download/).
 
