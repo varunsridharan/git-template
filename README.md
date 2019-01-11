@@ -31,6 +31,21 @@ Or **install it manually**:
 
 ?>
 ```
+## Contribute
+If you would like to help, please take a look at the list of
+[issues](https://github.com/varunsridharan/#/issues) or the [To Do](#-todo) checklist.
+
+# License
+
+This project is licensed under **General Public License v3.0 license**. See the [LICENSE](LICENSE) file for more info.
+
+## Copyright
+
+2017 - 2018 Josantonius, [varunsridharan.in](https://varunsridharan.in/)
+
+If you find it useful, let me know :wink:
+
+You can contact me on [Twitter](https://twitter.com/varunsridharan2) or through my [email](mailto:varunsridharan23@gmail.com).
 
 ---
 ## Sponsored By
