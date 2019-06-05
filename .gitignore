@@ -782,3 +782,6 @@ ASALocalRun/
 .localhistory/
 
 # End of https://www.gitignore.io/api/git,node,macos,grunt,eclipse,gitbook,windows,composer,wordpress,sublimetext,phpstorm+all,webstorm+all,visualstudio,visualstudiocode
+
+.all-contributorsrc
+.github/
