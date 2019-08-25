@@ -20,7 +20,7 @@
 	"varunsridharan/wp2github-md"      : "*"
   },
   "scripts"     : {
-	"makepot"        : "makepot ./wp-pot.json",
+	"makepot"        : "makepot ./wppot.json",
 	"add-textdomain" : "add-textdomain -i {textdomain} ./",
 	"build"          : [ "@makepot", "add-textdomain" ]
   },
