@@ -1,0 +1,24 @@
+name: WordPress Deploy
+
+on:
+  push:
+    branches:
+    - refs/tags/*
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Composer Install
+      uses: pxgamer/composer-action@master
+      with: 
+        command: install --no-dev
+    - name: WordPress.org SVN Publish
+      uses: varunsridharan/action-wp-org-deploy@master
+      with:
+        WORDPRESS_PASSWORD: ${{ secrets.SVN_PASSWORD }}
+        WORDPRESS_USERNAME: ${{ secrets.SVN_USERNAME }}
+        SLUG: your-plugin-slug
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
