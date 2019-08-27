@@ -15,5 +15,3 @@ jobs:
 			uses: varunsridharan/action-apigen@master
 			env:
 				GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-	
-	
