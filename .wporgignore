@@ -18,9 +18,10 @@ vendor/composer/installed.json
 .all-contributorsrc
 .editorconfig
 .gitattributes
+.git
 CHANGELOG.md
 LICENSE
-composer.json 
+composer.json
 composer.lock
 vendor/bin
 config.js
