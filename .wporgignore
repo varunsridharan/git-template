@@ -30,3 +30,4 @@ gulpfile.js
 package.json
 package-lock.json
 wp-pot.json
+wppot.json
