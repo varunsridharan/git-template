@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  PHP-DOCS-ApiGen:
+  PHP_Docs_ApiGen:
     runs-on: ubuntu-latest
     steps:
       - name: Fetching Repository
