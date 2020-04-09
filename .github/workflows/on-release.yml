@@ -1,0 +1,20 @@
+name: On Release
+
+on:
+  push:
+    tags:
+      - "*"
+
+jobs:
+  Envato Publisher:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetching Repository
+      - uses: actions/checkout@v1
+      - name: Publishing Release To Envato
+        uses: varunsridharan/action-envato-publisher@master
+        with:
+          envato_username: ${{ secrets.envato_username }}
+          envato_personal_token: ${{ secrets.envato_token }}
+          custom_command: "composer install --no-dev"
+          exclude_list: "src/ gulpfile.js gulp-config.js composer.lock composer.json wp-pot.json envato_assets_exclude_list.txt .envatoassets .gitignore .editorconfig vendor/*/*/README.md vendor/*/*/.gitignore"
