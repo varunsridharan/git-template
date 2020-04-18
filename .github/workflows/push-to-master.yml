@@ -15,3 +15,16 @@ jobs:
         uses: varunsridharan/action-apigen@1.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  Update_Change_Log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetching Repository
+        uses: actions/checkout@v1
+      - name: Running Chnage Log Updater
+        uses: varunsridharan/action-change-log-updater@master
+        with:
+          REPO_NAME: ${{ secrets.DOCS_REPO }}
+          REMOTE_FILE:${{ secrets.REMOTE_CHANGE_LOG_FILE }}
+          LOCAL_FILE: ${{ secrets.LOCAL_CHANGE_LOG_FILE }}
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
