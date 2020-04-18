@@ -22,7 +22,7 @@ jobs:
       - name: Fetching Repository
         uses: actions/checkout@v1
       - name: Running Chnage Log Updater
-        uses: varunsridharan/action-change-log-updater@master
+        uses: varunsridharan/action-change-log-updater@1.0
         with:
           REPO_NAME: ${{ secrets.DOCS_REPO }}
           REMOTE_FILE:${{ secrets.REMOTE_CHANGE_LOG_FILE }}
