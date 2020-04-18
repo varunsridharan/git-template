@@ -25,6 +25,6 @@ jobs:
         uses: varunsridharan/action-change-log-updater@1.0
         with:
           REPO_NAME: ${{ secrets.DOCS_REPO }}
-          REMOTE_FILE:${{ secrets.REMOTE_CHANGE_LOG_FILE }}
+          REMOTE_FILE: ${{ secrets.REMOTE_CHANGE_LOG_FILE }}
           LOCAL_FILE: ${{ secrets.LOCAL_CHANGE_LOG_FILE }}
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
