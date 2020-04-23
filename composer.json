@@ -25,7 +25,7 @@
     "makepot"        : "makepot ./wp-pot.json",
     "add-textdomain" : "add-textdomain -i {textdomain} ./",
     "classmaps"      : "classmap-generator \"includes/\" ./vsp-classmaps.php",
-    "build"          : [ "@classmaps", "@makepot", "add-textdomain" ]
+    "build"          : [ "@classmaps", "@add-textdomain", "@makepot" ]
   },
   "autoload"    : {
     "psr-4"    : { },
