@@ -54,7 +54,7 @@ If you find it useful, let me know :wink:
 
 You can contact me on [Twitter][twitter] or through my [email][email].
 
-## Backed By
+## Powered by
 | [![DigitalOcean][do-image]][do-ref] | [![JetBrains][jb-image]][jb-ref] |  [![Tidio Chat][tidio-image]][tidio-ref] |
 | --- | --- | --- |
 
