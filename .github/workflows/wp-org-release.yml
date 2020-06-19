@@ -1,0 +1,37 @@
+name: On Release
+
+on:
+  release:
+    types:
+      - published
+
+jobs:
+  WordPress_Publisher:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📩 Fetching Repository
+        uses: actions/checkout@v2
+      - name: 💽 Installing Composer
+        uses: pxgamer/composer-action@master
+        with:
+          command: install --no-dev
+      - name: 🚀 Publishing Release To WordPress
+        uses: varunsridharan/action-wp-org-deploy@master
+        with:
+          WORDPRESS_PASSWORD: ${{ secrets.WP_PASSWORD }}
+          WORDPRESS_USERNAME: ${{ secrets.WP_USERNAME }}
+          SLUG: ${{ secrets.WP_SLUG }}
+      - name: 📦 Upload ZIP To Release in Github
+        uses: Roang-zero1/github-upload-release-artifacts-action@master
+        with:
+          args: dist/
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 🐦 Tweet
+        uses: m1ner79/Github-Twittction@master
+        with:
+          twitter_status: ${{ secrets.TWITTER_MSG }}
+          twitter_consumer_key: ${{ secrets.TWITTER_API_KEY }}
+          twitter_consumer_secret: ${{ secrets.TWITTER_API_SECRET_KEY }}
+          twitter_access_token_key: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          twitter_access_token_secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }} 
