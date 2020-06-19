@@ -8,7 +8,7 @@ Custom Github Template
 [![License][license-img]][licenselink]
 [![composer.lock available][composerlock-img]][composerlocklink]
 
-## Installation
+## ⚙️Installation
 The preferred way to install this extension is through [Composer][composer].
 
 To install **VSP_Framework library**, simply:
@@ -29,7 +29,7 @@ Or **install it manually**:
 
     $ wget https://github.com/varunsridharan/vsp-framework/archive/master.zip
 
-## Usage
+## 🚀 Usage
 
 ```php
 <?php
@@ -40,11 +40,10 @@ Or **install it manually**:
 ```
 ---
 
-## Contribute
-If you would like to help, please take a look at the list of
-[issues](issues/) or the [To Do](#-todo) checklist.
+## 🤝 Contributing
+If you would like to help, please take a look at the list of [issues](issues/) or the [To Do](#-todo) checklist.
 
-## License
+## 📝 License
 This project is licensed under **General Public License v3.0 license**. See the [LICENSE](LICENSE) file for more info.
 
 ## Copyright
