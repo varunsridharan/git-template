@@ -60,20 +60,14 @@ Built With ♥ By _[Varun Sridharan][twitter]_
 <small><i>⭐ This repository if this project helped you!</i></small>
 
 ## Powered by
-| [![DigitalOcean][do-image]][do-ref] | [![JetBrains][jb-image]][jb-ref] |
+| [![DigitalOcean][digitalocean-logo]][digitalocean-ref] | [![JetBrains | PHPStorm][phpstorm-logo]][phpstorm-ref] |
 | --- | --- |
 
 [twitter]: https://go.svarun.dev/sm/twitter/
 [email]: https://go.svarun.dev/contact/email/
 [website]: https://go.svarun.dev/website/
 [composer]: https://go.svarun.dev/composer/
-[do-ref]: https://go.svarun.dev/powered/digitalocean/
-[jb-ref]: https://go.svarun.dev/powered/jetbrains/
-
 [downloadzip]:https://github.com/varunsridharan/vsp-framework/archive/master.zip
-
-[do-image]: https://cdn.svarun.dev/common/digitalocean/small.png?v=1
-[jb-image]: https://cdn.svarun.dev/common/jetbrains/phpstorm/small.png?v=1
 
 [latest-stable-version-img]: https://poser.pugx.org/varunsridharan/php-autoloader/version
 [latest-Unstable-version-img]: https://poser.pugx.org/varunsridharan/php-autoloader/v/unstable
@@ -89,3 +83,11 @@ Built With ♥ By _[Varun Sridharan][twitter]_
 [wpcsl]: https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/
 [licenselink]: https://packagist.org/packages/varunsridharan/php-autoloader
 [composerlocklink]: https://packagist.org/packages/varunsridharan/php-autoloader
+
+<!-- Powered By -->
+[digitalocean-ref]: https://go.svarun.dev/powered/digitalocean/
+[digitalocean-logo]: https://cdn.svarun.dev/common/digitalocean/small.png?v=1
+
+[phpstorm-ref]: https://go.svarun.dev/powered/jetbrains/
+[phpstorm-logo]: https://cdn.svarun.dev/common/jetbrains/phpstorm/small.png?v=1
+
