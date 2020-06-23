@@ -47,12 +47,17 @@ If you would like to help, please take a look at the list of [issues](issues/) o
 ## 📝 License
 This project is licensed under **General Public License v3.0 license**. See the [LICENSE](LICENSE) file for more info.
 
-## Copyright
-2017 - 2018 Varun Sridharan, [varunsridharan.in][website]
-
+## 📣 Feedback
 If you find it useful, let me know :wink:
 
-You can contact me on [Twitter][twitter] or through my [email][email].
+- Create An [🔧 Issue](issues/) 
+- Message Me On  [🐦 Twitter][twitter] 
+- Send An [📧 E-Mail][email]
+
+## 🙏  Supports
+Built With ♥ By _[Varun Sridharan][twitter]_
+
+<small><i>⭐ This repository if this project helped you!</i></small>
 
 ## Powered by
 | [![DigitalOcean][do-image]][do-ref] | [![JetBrains][jb-image]][jb-ref] |
