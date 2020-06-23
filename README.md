@@ -63,7 +63,7 @@ You can read more about me [here](website). If you or your company use any of my
 ---
 
 <p align="center">
-<i>Built With ♥ By <a href="https://go.svarun.dev/twitter"  target="_blank" rel="noopener noreferrer">Varun Sridharan</a></i>
+<i>Built With ♥ By <a href="https://go.svarun.dev/twitter"  target="_blank" rel="noopener noreferrer">Varun Sridharan</a> 🇮🇳 </i>
 </p>
 
 ---
