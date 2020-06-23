@@ -41,7 +41,7 @@ Or **install it manually**:
 ---
 
 ## 🤝 Contributing
-If you would like to help, please take a look at the list of [issues](issues/) or the [To Do](#-todo) checklist.
+If you would like to help, please take a look at the list of [issues](issues/).
 
 ## 💰 Sponsor
 Me ([Varun Sridharan][twitter])  fell in love with open source & never turned back . 
@@ -70,7 +70,8 @@ You can read more about me [here](website). If you or your company use any of my
 
 ## Connect & Say 👋
 - [👨‍💻 Github](https://go.svarun.dev/github) ***follow*** To stay up to date on free & open-source software
-- [🐦 Twitter](https://go.svarun.dev/twitter) ***follow*** To Get Updates On My Latest Open Source Projects
+- [🐦 Twitter][twitter] ***follow*** To Get Updates On My Latest Open Source Projects
+- [📠 Telegram][telegram] ***Message*** -
 
 ## Powered by
 <table>
@@ -82,7 +83,9 @@ You can read more about me [here](website). If you or your company use any of my
 </table>
 
 <!-- Personl Links -->
-[twitter]: https://go.svarun.dev/sm/twitter/
+[twitter]: https://go.svarun.dev/twitter/
+[telegram]: https://go.svarun.dev/telegram/
+[github]: https://go.svarun.dev/github/
 [email]: https://go.svarun.dev/contact/email/
 [website]: https://go.svarun.dev/website/
 
