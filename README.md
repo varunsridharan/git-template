@@ -1,5 +1,4 @@
-![https://s2.do-spaces.com/2020/Jun/19/1592548514-134.png](https://s2.do-spaces.com/2020/Jun/19/1592549041-130.png)
-
+# Git Template
 Custom Github Template
 
 [![Latest Stable Version][latest-stable-version-img]][lsvl]
