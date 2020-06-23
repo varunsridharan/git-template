@@ -60,8 +60,8 @@ Built With ♥ By _[Varun Sridharan][twitter]_
 <small><i>⭐ This repository if this project helped you!</i></small>
 
 ## Powered by
-| [![DigitalOcean][digitalocean-logo]][digitalocean-ref] | [![JetBrains | PHPStorm][phpstorm-logo]][phpstorm-ref] |
-| --- | --- |
+| [![DigitalOcean][digitalocean-logo]][digitalocean-ref] | [![JetBrains-PHPStorm][phpstorm-logo]][phpstorm-ref] | [![Gitbook][gitbook-logo]][gitbook-ref] |
+| --- | --- | --- |
 
 [twitter]: https://go.svarun.dev/sm/twitter/
 [email]: https://go.svarun.dev/contact/email/
@@ -86,8 +86,11 @@ Built With ♥ By _[Varun Sridharan][twitter]_
 
 <!-- Powered By -->
 [digitalocean-ref]: https://go.svarun.dev/powered/digitalocean/
-[digitalocean-logo]: https://cdn.svarun.dev/common/digitalocean/small.png?v=1
+[digitalocean-logo]: https://cdn.svarun.dev/common/digitalocean/icon-small.png?v=1
 
 [phpstorm-ref]: https://go.svarun.dev/powered/jetbrains/
-[phpstorm-logo]: https://cdn.svarun.dev/common/jetbrains/phpstorm/small.png?v=1
+[phpstorm-logo]: https://cdn.svarun.dev/common/jetbrains/phpstorm/icon-small.png?v=1
+
+[gitbook-ref]: https://go.svarun.dev/powered/gitbook/
+[gitbook-logo]: https://cdn.svarun.dev/common/gitbook/icon-small.png?v=1
 
