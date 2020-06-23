@@ -47,6 +47,15 @@ If you would like to help, please take a look at the list of [issues](issues/) o
 ## 📝 License
 This project is licensed under **General Public License v3.0 license**. See the [LICENSE](LICENSE) file for more info.
 
+## 💰 Sponsor
+Me ([Varun Sridharan][twitter])  fell in love with open source & never turned back . 
+You can read more about me [here](website). If you or your company use any of my projects or like what I’m doing then consider backing me. I'm in this for the long run.
+
+- 🌟  **$9.99/month (recommended)** ❯ [Two cups of Caffè latte (coffee) every month →](https://go.svarun.dev/buymeacoffee/)
+- 🚀  **$49.99 (one-time sponsor)** ❯ [Support an hour of open-source code →](https://go.svarun.dev/paypal/)
+- 🔰  **$24.99 (one-time sponsor)** ❯ [Support an hour of maintenance →](https://go.svarun.dev/paypal/)
+- ☕️  **$9.99 (one-time sponsor)** ❯ [Lunch/coffee →](https://go.svarun.dev/paypal/)
+
 ## 📣 Feedback
 If you find it useful, let me know :wink:
 
