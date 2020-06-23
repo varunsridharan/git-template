@@ -61,13 +61,19 @@ You can read more about me [here](website). If you or your company use any of my
 - ⭐ This repository if this project helped you! :wink:
 - Create An [🔧 Issue](issues/) if you need help / found a bug
 
-## 🙏  Supports
-Built With ♥ By _[Varun Sridharan][twitter]_
-
+## Connect & Say 👋
+- [👨‍💻 Github](https://go.svarun.dev/github) ***follow*** To stay up to date on free & open-source software
+- [🐦 Twitter](https://go.svarun.dev/twitter) ***follow*** To Get Updates On My Latest Open Source Projects
 
 ## Powered by
 | [![DigitalOcean][digitalocean-logo]][digitalocean-ref] | [![JetBrains-PHPStorm][phpstorm-logo]][phpstorm-ref] | [![Gitbook][gitbook-logo]][gitbook-ref] |
 | --- | --- | --- |
+
+---
+
+<p align="center">
+Built With ♥ By <a href="https://go.svarun.dev/twitter"  target="_blank" rel="noopener noreferrer">Varun Sridharan</a>
+</p>
 
 [twitter]: https://go.svarun.dev/sm/twitter/
 [email]: https://go.svarun.dev/contact/email/
