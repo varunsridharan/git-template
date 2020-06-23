@@ -69,9 +69,10 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 ---
 
 ## Connect & Say 👋
-- [👨‍💻 Github](https://go.svarun.dev/github) ***follow*** To stay up to date on free & open-source software
-- [🐦 Twitter][twitter] ***follow*** To Get Updates On My Latest Open Source Projects
-- [📠 Telegram][telegram] ***Message*** -
+- **Follow** me on [👨‍💻 Github](https://go.svarun.dev/github) and stay updated on free and open-source software
+- **Follow** me on [🐦 Twitter][twitter] to get updates on my latest open source projects
+- **Message** me on [📠 Telegram][telegram]
+- **Follow** my pet on [Instagram](https://www.instagram.com/sofythelabrador/) for some _dog-tastic_ updates!
 
 ## Powered by
 <table>
