@@ -73,37 +73,36 @@ You can read more about me [here](website). If you or your company use any of my
 - [🐦 Twitter](https://go.svarun.dev/twitter) ***follow*** To Get Updates On My Latest Open Source Projects
 
 ## Powered by
-| [![DigitalOcean][digitalocean-logo]][digitalocean-ref] | [![JetBrains-PHPStorm][phpstorm-logo]][phpstorm-ref] | [![Gitbook][gitbook-logo]][gitbook-ref] |
-| --- | --- | --- |
+<table>
+    <tr>
+        <td><a target='_blank' href="https://go.svarun.dev/powered/digitalocean/"><img src="https://cdn.svarun.dev/common/digitalocean/icon-small.png?v=1" /> </a></td>
+        <td><a target='_blank' href="https://go.svarun.dev/powered/jetbrains/"><img src="https://cdn.svarun.dev/common/jetbrains/phpstorm/icon-small.png?v=1" /> </a></td>
+        <td><a target='_blank' href="https://go.svarun.dev/powered/gitbook/"><img src="https://cdn.svarun.dev/common/gitbook/icon-small.png?v=1" /> </a></td>
+    </tr>
+</table>
 
+<!-- Personl Links -->
 [twitter]: https://go.svarun.dev/sm/twitter/
 [email]: https://go.svarun.dev/contact/email/
 [website]: https://go.svarun.dev/website/
+
+<!-- Private -->
 [composer]: https://go.svarun.dev/composer/
 [downloadzip]:https://github.com/varunsridharan/vsp-framework/archive/master.zip
+[wpcsl]: https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/
 
+<!-- Poser -->
 [latest-stable-version-img]: https://poser.pugx.org/varunsridharan/php-autoloader/version
 [latest-Unstable-version-img]: https://poser.pugx.org/varunsridharan/php-autoloader/v/unstable
 [total-downloads-img]: https://poser.pugx.org/varunsridharan/php-autoloader/downloads
 [Latest-Unstable-version-img]: https://poser.pugx.org/varunsridharan/php-autoloader/v/unstable
-[wpcs-img]: https://img.shields.io/badge/WordPress-Standar-1abc9c.svg
 [license-img]: https://poser.pugx.org/varunsridharan/php-autoloader/license
 [composerlock-img]: https://poser.pugx.org/varunsridharan/php-autoloader/composerlock
+[wpcs-img]: https://img.shields.io/badge/WordPress-Standar-1abc9c.svg
 
+<!-- Packagist Links -->
 [lsvl]: https://packagist.org/packages/varunsridharan/php-autoloader
 [luvl]: https://packagist.org/packages/varunsridharan/php-autoloader
 [tdl]: https://packagist.org/packages/varunsridharan/php-autoloader
-[wpcsl]: https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/
 [licenselink]: https://packagist.org/packages/varunsridharan/php-autoloader
 [composerlocklink]: https://packagist.org/packages/varunsridharan/php-autoloader
-
-<!-- Powered By -->
-[digitalocean-ref]: https://go.svarun.dev/powered/digitalocean/
-[digitalocean-logo]: https://cdn.svarun.dev/common/digitalocean/icon-small.png?v=1
-
-[phpstorm-ref]: https://go.svarun.dev/powered/jetbrains/
-[phpstorm-logo]: https://cdn.svarun.dev/common/jetbrains/phpstorm/icon-small.png?v=1
-
-[gitbook-ref]: https://go.svarun.dev/powered/gitbook/
-[gitbook-logo]: https://cdn.svarun.dev/common/gitbook/icon-small.png?v=1
-
