@@ -60,6 +60,12 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 - ⭐ This repository if this project helped you! :wink:
 - Create An [🔧 Issue](issues/) if you need help / found a bug
 
+## Connect & Say 👋
+- **Follow** me on [👨‍💻 Github](https://go.svarun.dev/github) and stay updated on free and open-source software
+- **Follow** me on [🐦 Twitter][twitter] to get updates on my latest open source projects
+- **Message** me on [📠 Telegram][telegram]
+- **Follow** my pet on [Instagram](https://www.instagram.com/sofythelabrador/) for some _dog-tastic_ updates!
+
 ---
 
 <p align="center">
@@ -67,21 +73,6 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 </p>
 
 ---
-
-## Connect & Say 👋
-- **Follow** me on [👨‍💻 Github](https://go.svarun.dev/github) and stay updated on free and open-source software
-- **Follow** me on [🐦 Twitter][twitter] to get updates on my latest open source projects
-- **Message** me on [📠 Telegram][telegram]
-- **Follow** my pet on [Instagram](https://www.instagram.com/sofythelabrador/) for some _dog-tastic_ updates!
-
-## My Tools Of Choice
-<table>
-    <tr>
-        <td><a target='_blank' href="https://go.svarun.dev/powered/digitalocean/"><img src="https://cdn.svarun.dev/common/digitalocean/icon-small.png?v2" /> </a></td>
-        <td><a target='_blank' href="https://go.svarun.dev/powered/jetbrains/"><img src="https://cdn.svarun.dev/common/jetbrains/phpstorm/icon-small.png?v2" /> </a></td>
-        <td><a target='_blank' href="https://go.svarun.dev/powered/gitbook/"><img src="https://cdn.svarun.dev/common/gitbook/icon-small.png?v2" /> </a></td>
-    </tr>
-</table>
 
 <!-- Personl Links -->
 [twitter]: https://go.svarun.dev/twitter/
