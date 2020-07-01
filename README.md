@@ -8,6 +8,8 @@ Custom Github Template
 [![License][license-img]][licenselink]
 [![composer.lock available][composerlock-img]][composerlocklink]
 
+## ✅  Requirements
+
 ## ⚙️Installation
 The preferred way to install this extension is through [Composer][composer].
 
@@ -40,6 +42,14 @@ Or **install it manually**:
 ```
 ---
 
+## Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+[Checkout CHANGELOG.md](/CHANGELOG.md)
+
 ## 🤝 Contributing
 If you would like to help, please take a look at the list of [issues](issues/).
 
@@ -52,7 +62,7 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 - 🔰         We love bettering open-source projects. Support 1-hour of open-source maintenance for [**$24.99 one-time?**][paypal]
 - 🚀         Love open-source tools? Me too! How about supporting one hour of open-source development for just [**$49.99 one-time ?**][paypal]
 
-## 📝 License & Conduct
+## 📜  License & Conduct
 - [**General Public License v3.0 license**](LICENSE) © [Varun Sridharan](website)
 - [Code of Conduct](code-of-conduct.md)
 
