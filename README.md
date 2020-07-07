@@ -79,23 +79,23 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 ---
 
 <p align="center">
-<i>Built With ♥ By <a href="https://go.svarun.dev/twitter"  target="_blank" rel="noopener noreferrer">Varun Sridharan</a> 🇮🇳 </i>
+<i>Built With ♥ By <a href="https://sva.onl/twitter"  target="_blank" rel="noopener noreferrer">Varun Sridharan</a> 🇮🇳 </i>
 </p>
 
 ---
 
 <!-- Personl Links -->
-[paypal]: https://go.svarun.dev/paypal
-[buymeacoffee]: https://go.svarun.dev/buymeacoffee
+[paypal]: https://sva.onl/paypal
+[buymeacoffee]: https://sva.onl/buymeacoffee
 [sofythelabrador]: https://www.instagram.com/sofythelabrador/
-[github]: https://go.svarun.dev/github/
-[twitter]: https://go.svarun.dev/twitter/
-[telegram]: https://go.svarun.dev/telegram/
-[email]: https://go.svarun.dev/contact/email/
-[website]: https://go.svarun.dev/website/
+[github]: https://sva.onl/github/
+[twitter]: https://sva.onl/twitter/
+[telegram]: https://sva.onl/telegram/
+[email]: https://sva.onl/email
+[website]: https://sva.onl/website/
 
 <!-- Private -->
-[composer]: https://go.svarun.dev/composer/
+[composer]: https://sva.onl/composer/
 [downloadzip]:https://github.com/varunsridharan/vsp-framework/archive/master.zip
 [wpcsl]: https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/
 
