@@ -1,0 +1,17 @@
+{
+  "name"        : "",
+  "version"     : "1.0.0",
+  "description" : "",
+  "main"        : "index.js",
+  "author"      : "Varun Sridharan <varunsridharan23@gmail.com> (https://varunsridharan.in)",
+  "keywords"    : [ ],
+  "homepage"    : "https://github.com/",
+  "bugs"        : {
+	"url" : "https://github.com/"
+  },
+  "repository"  : {
+	"type" : "git",
+	"url"  : "https://github.com/.git"
+  },
+  "license"     : "MIT"
+}
